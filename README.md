@@ -1,4 +1,4 @@
-This notebook explores the Heart Disease dataset. And develops a model to predict positive and negative.
+This notebook explores the Heart Disease dataset. And develops a model to predict positive and negative. I also tune the alpha by hand to maximize the accuracy.
 
 Libraries:
 
