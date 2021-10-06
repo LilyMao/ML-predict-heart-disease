@@ -1,4 +1,4 @@
-This notebook explores the Heart Disease dataset. And develops a model to predict positive and negative. I also tune the alpha by hand to maximize the accuracy.
+This notebook explores the Heart Disease dataset. And develops a model to predict positive and negative. I also tune the alpha by cost complexity pruning path to maximize the accuracy. Besides the total accuracy, I also tune and select alpha to hand to improve true/false positve/negative rate through confusion matrix.
 
 Libraries:
 
